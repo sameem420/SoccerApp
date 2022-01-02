@@ -1,2 +1,3 @@
-# LearningNodeJS
-NodeJS Learning practice code and resources
+# SoccerApp
+
+### Soccer App developed using MERN Stack
